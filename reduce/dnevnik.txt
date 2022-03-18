@@ -1,0 +1,17 @@
+var getMax = (a,b) => Math.max(a,b);
+
+
+
+array.reduce(getMax)
+
+
+
+array
+
+
+
+var getMin = (a,b) => Math.min(a,b)
+
+
+
+array.reduce(getMin)
